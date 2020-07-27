@@ -25,6 +25,6 @@ Des Moines and New York City share certain [demographic similarities](https://ww
 
 ## Visualisations
 
-For a visual representation of why Des Moines is a great places for a bike share service, the tableau presentation can be found [here](https://public.tableau.com/profile/alyssa6088#!/vizhome/CitiBikeAnalysis_15958112671170/BikeShareAnalysis?publish=yes)
+For a visual representation of why Des Moines is a great places for a bike share service, the tableau presentation can be found [here](https://public.tableau.com/profile/alyssa6088#!/vizhome/CitiBikeAnalysis_15958112671170/BikeShareAnalysis?publish=yes).
 
 ![bike share](https://github.com/Alyssa-CG/Module14-bikesharing/blob/master/images/biking-in-nyc.png)
